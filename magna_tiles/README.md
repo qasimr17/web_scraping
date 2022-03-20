@@ -10,3 +10,9 @@ scrapy crawl tiles -O tiles.csv
 ```
 
 Note: You may replace `tiles.csv` above with the output file name of your choosing. Data may be exported as a .json file as well.
+
+To install the relevant dependencies/libraries in your environment, run:
+
+```
+pip install -r requirements.txt
+```
